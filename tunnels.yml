@@ -1,0 +1,13 @@
+name: tunnels
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+- python=3.7.0
+- geopandas=0.3.0
+- pandas=0.23.4
+- jupyter=1.0.0
+- pymongo=3.7.2
+- boto3=1.9.82
+- requests=2.21.0
+- xlrd=1.2.0
